@@ -8,7 +8,7 @@ This is a boilerplate for MERN authentication that stores a JWT in an HTTP-Only 
  
 **Client:** React, Redux, Vite, BootstrapCSS
 
-**Server:** Node, Express, JWT
+**Server:** Node, Express, JWT, MongoDB, Mongoose
 
 
 ## Documentation
