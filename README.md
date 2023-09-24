@@ -16,7 +16,7 @@ This is a boilerplate for MERN authentication that stores a JWT in an HTTP-Only 
 - [React-Bootstrap](https://react-bootstrap.netlify.app/)
 - [Redux-Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 
-- 
+  
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
