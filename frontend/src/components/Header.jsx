@@ -35,7 +35,7 @@ const Header = () => {
                 <Container>
                     {/* <Navbar.Brand href="/">MERN App</Navbar.Brand>    / -> http://localhost:3000 frontend  */}
                     <LinkContainer to='/'>
-                        <Navbar.Brand>MERN App</Navbar.Brand>
+                        <Navbar.Brand>MERNAuth</Navbar.Brand>
                     </LinkContainer>
 
                     <Navbar.Toggle aria-controls='basic-navbar-nav' />

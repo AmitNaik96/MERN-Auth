@@ -1,7 +1,7 @@
 
 # MERN-Auth
 
-This is a boilerplate for MERN authentication that stores a JWT in an HTTP-Only cookie. It also uses Redux Toolkit and the React Bootstrap library.
+This MERN authentication web app employs JWT storage in HTTP-Only cookies, integrating Redux Toolkit and React Bootstrap for efficient state management and UI development.
 
 
 ## Tech Stack
@@ -60,6 +60,6 @@ Start the server
 ```
 
 
-## Acknowledgements
+## 🔗 Links
 
- - [Traversy Media](https://www.youtube.com/@TraversyMedia)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-naik-79295028a/)
